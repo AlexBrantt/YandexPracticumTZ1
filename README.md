@@ -34,7 +34,7 @@
 Пример:
 
 ```bash
-python parse_md_to_excel.py your_file.md
+python parse_md_to_excel.py questions_test.md
 ```
 
 **Результат будет сохранён в файл output.xlsx**
