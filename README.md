@@ -9,7 +9,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/your_username/YandexPracticumTZ1.git
+    git clone https://github.com/AlexBrantt/YandexPracticumTZ1.git
     cd YandexPracticumTZ1
     ```
 
